@@ -173,6 +173,10 @@ Possible future work includes:
 
 ---
 
+## Publication
+
+Accepted for publication at The 2nd International Conference on Artificial Intelligence, Virtual Reality and Interaction Design (AIVRD 2026).
+
 ## Author
 
 Chen Jia
